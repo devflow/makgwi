@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Makgwi</string>
+    <string name="load">로드</string>
+    <string name="not_supported_arch">이 기기는 사용할 수 없습니다.</string>
+    <string name="file_permission">FLAC 파일을 읽고 저장하기위해 권한이 필요합니다.</string>
+    <string name="raise_error">에러가 발생하였습니다.</string>
+</resources>
